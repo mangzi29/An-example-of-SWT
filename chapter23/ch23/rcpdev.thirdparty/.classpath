@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry path="src" kind="src"/>
+	<classpathentry path="commons-jxpath-1.2.jar" exported="true" kind="lib"/>
+	<classpathentry path="mysql-connector-java-3.0.15-ga-bin.jar" exported="true" kind="lib"/>
+	<classpathentry sourcepath="D:/toplink_101300/toplink/jlib/toplink-src.zip" path="toplink.jar" exported="true" kind="lib"/>
+	<classpathentry path="org.eclipse.jdt.launching.JRE_CONTAINER" kind="con"/>
+	<classpathentry path="org.eclipse.pde.core.requiredPlugins" kind="con"/>
+	<classpathentry path="bin" kind="output"/>
+</classpath>
